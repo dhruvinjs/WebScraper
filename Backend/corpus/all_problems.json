@@ -1,0 +1,656 @@
+{
+  "Like the Bitset": [
+    {
+      "name": "Like the Bitset",
+      "url": "https://codeforces.com/problemset/problem/2136/B",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "In the Dream": [
+    {
+      "name": "In the Dream",
+      "url": "https://codeforces.com/problemset/problem/2136/A",
+      "platform": "Codeforces",
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "To the Infinity": [
+    {
+      "name": "To the Infinity",
+      "url": "https://codeforces.com/problemset/problem/2135/F",
+      "platform": "Codeforces",
+      "tags": [
+        "data structures",
+        "hashing",
+        "math",
+        "trees"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Beyond the Palindrome (Hard Version)": [
+    {
+      "name": "Beyond the Palindrome (Hard Version)",
+      "url": "https://codeforces.com/problemset/problem/2135/E2",
+      "platform": "Codeforces",
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Beyond the Palindrome (Easy Version)": [
+    {
+      "name": "Beyond the Palindrome (Easy Version)",
+      "url": "https://codeforces.com/problemset/problem/2135/E1",
+      "platform": "Codeforces",
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "From the Unknown (Hard Version)": [
+    {
+      "name": "From the Unknown (Hard Version)",
+      "url": "https://codeforces.com/problemset/problem/2135/D2",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "divide and conquer",
+        "interactive",
+        "math",
+        "probabilities"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "From the Unknown (Easy Version)": [
+    {
+      "name": "From the Unknown (Easy Version)",
+      "url": "https://codeforces.com/problemset/problem/2135/D1",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "By the Assignment": [
+    {
+      "name": "By the Assignment",
+      "url": "https://codeforces.com/problemset/problem/2135/C",
+      "platform": "Codeforces",
+      "tags": [
+        "bitmasks",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "For the Champion": [
+    {
+      "name": "For the Champion",
+      "url": "https://codeforces.com/problemset/problem/2135/B",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "interactive",
+        "math"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Against the Difference": [
+    {
+      "name": "Against the Difference",
+      "url": "https://codeforces.com/problemset/problem/2135/A",
+      "platform": "Codeforces",
+      "tags": [
+        "data structures",
+        "dp"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Permutation Oddness": [
+    {
+      "name": "Permutation Oddness",
+      "url": "https://codeforces.com/problemset/problem/2134/F",
+      "platform": "Codeforces",
+      "tags": [
+        "combinatorics",
+        "dp",
+        "math"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Power Boxes": [
+    {
+      "name": "Power Boxes",
+      "url": "https://codeforces.com/problemset/problem/2134/E",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "implementation",
+        "interactive"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Sliding Tree": [
+    {
+      "name": "Sliding Tree",
+      "url": "https://codeforces.com/problemset/problem/2134/D",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "trees"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Even Larger": [
+    {
+      "name": "Even Larger",
+      "url": "https://codeforces.com/problemset/problem/2134/C",
+      "platform": "Codeforces",
+      "tags": [
+        "brute force",
+        "greedy",
+        "implementation"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Add 0 or K": [
+    {
+      "name": "Add 0 or K",
+      "url": "https://codeforces.com/problemset/problem/2134/B",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Painting With Two Colors": [
+    {
+      "name": "Painting With Two Colors",
+      "url": "https://codeforces.com/problemset/problem/2134/A",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "implementation",
+        "math"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Flint and Steel": [
+    {
+      "name": "Flint and Steel",
+      "url": "https://codeforces.com/problemset/problem/2133/F",
+      "platform": "Codeforces",
+      "tags": [
+        "data structures",
+        "dp",
+        "graphs"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "I Yearned For The Mines": [
+    {
+      "name": "I Yearned For The Mines",
+      "url": "https://codeforces.com/problemset/problem/2133/E",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Chicken Jockey": [
+    {
+      "name": "Chicken Jockey",
+      "url": "https://codeforces.com/problemset/problem/2133/D",
+      "platform": "Codeforces",
+      "tags": [
+        "dp",
+        "greedy"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "The Nether": [
+    {
+      "name": "The Nether",
+      "url": "https://codeforces.com/problemset/problem/2133/C",
+      "platform": "Codeforces",
+      "tags": [
+        "graphs",
+        "interactive"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Villagers": [
+    {
+      "name": "Villagers",
+      "url": "https://codeforces.com/problemset/problem/2133/B",
+      "platform": "Codeforces",
+      "tags": [
+        "greedy"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Redstone?": [
+    {
+      "name": "Redstone?",
+      "url": "https://codeforces.com/problemset/problem/2133/A",
+      "platform": "Codeforces",
+      "tags": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "math"
+      ],
+      "difficulty": "n/a"
+    }
+  ],
+  "Famous Choreographer": [
+    {
+      "name": "Famous Choreographer",
+      "url": "https://codeforces.com/problemset/problem/2132/G",
+      "platform": "Codeforces",
+      "tags": [
+        "hashing",
+        "implementation",
+        "strings"
+      ],
+      "difficulty": 2600
+    }
+  ],
+  "Rada and the Chamomile Valley": [
+    {
+      "name": "Rada and the Chamomile Valley",
+      "url": "https://codeforces.com/problemset/problem/2132/F",
+      "platform": "Codeforces",
+      "tags": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+      ],
+      "difficulty": 2100
+    }
+  ],
+  "Arithmetics Competition": [
+    {
+      "name": "Arithmetics Competition",
+      "url": "https://codeforces.com/problemset/problem/2132/E",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "sortings",
+        "ternary search"
+      ],
+      "difficulty": 1700
+    }
+  ],
+  "From 1 to Infinity": [
+    {
+      "name": "From 1 to Infinity",
+      "url": "https://codeforces.com/problemset/problem/2132/D",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "dp",
+        "implementation",
+        "math"
+      ],
+      "difficulty": 1600
+    }
+  ],
+  "The Cunning Seller (hard version)": [
+    {
+      "name": "The Cunning Seller (hard version)",
+      "url": "https://codeforces.com/problemset/problem/2132/C2",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "greedy",
+        "math"
+      ],
+      "difficulty": 1400
+    }
+  ],
+  "The Cunning Seller (easy version)": [
+    {
+      "name": "The Cunning Seller (easy version)",
+      "url": "https://codeforces.com/problemset/problem/2132/C1",
+      "platform": "Codeforces",
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "difficulty": 1000
+    }
+  ],
+  "The Secret Number": [
+    {
+      "name": "The Secret Number",
+      "url": "https://codeforces.com/problemset/problem/2132/B",
+      "platform": "Codeforces",
+      "tags": [
+        "math"
+      ],
+      "difficulty": 900
+    }
+  ],
+  "Homework": [
+    {
+      "name": "Homework",
+      "url": "https://codeforces.com/problemset/problem/2132/A",
+      "platform": "Codeforces",
+      "tags": [
+        "brute force",
+        "implementation",
+        "strings"
+      ],
+      "difficulty": 800
+    }
+  ],
+  "Sea, You & copriMe": [
+    {
+      "name": "Sea, You & copriMe",
+      "url": "https://codeforces.com/problemset/problem/2131/H",
+      "platform": "Codeforces",
+      "tags": [
+        "brute force",
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "math",
+        "number theory"
+      ],
+      "difficulty": 2600
+    }
+  ],
+  "Wafu!": [
+    {
+      "name": "Wafu!",
+      "url": "https://codeforces.com/problemset/problem/2131/G",
+      "platform": "Codeforces",
+      "tags": [
+        "bitmasks",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "math"
+      ],
+      "difficulty": 2000
+    }
+  ],
+  "Unjust Binary Life": [
+    {
+      "name": "Unjust Binary Life",
+      "url": "https://codeforces.com/problemset/problem/2131/F",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+      ],
+      "difficulty": 1900
+    }
+  ],
+  "Adjacent XOR": [
+    {
+      "name": "Adjacent XOR",
+      "url": "https://codeforces.com/problemset/problem/2131/E",
+      "platform": "Codeforces",
+      "tags": [
+        "brute force",
+        "greedy"
+      ],
+      "difficulty": 1400
+    }
+  ],
+  "Arboris Contractio": [
+    {
+      "name": "Arboris Contractio",
+      "url": "https://codeforces.com/problemset/problem/2131/D",
+      "platform": "Codeforces",
+      "tags": [
+        "data structures",
+        "graphs",
+        "greedy",
+        "trees"
+      ],
+      "difficulty": 1400
+    }
+  ],
+  "Make it Equal": [
+    {
+      "name": "Make it Equal",
+      "url": "https://codeforces.com/problemset/problem/2131/C",
+      "platform": "Codeforces",
+      "tags": [
+        "math",
+        "number theory"
+      ],
+      "difficulty": 1100
+    }
+  ],
+  "Alternating Series": [
+    {
+      "name": "Alternating Series",
+      "url": "https://codeforces.com/problemset/problem/2131/B",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+      ],
+      "difficulty": 800
+    }
+  ],
+  "Lever": [
+    {
+      "name": "Lever",
+      "url": "https://codeforces.com/problemset/problem/2131/A",
+      "platform": "Codeforces",
+      "tags": [
+        "math"
+      ],
+      "difficulty": 800
+    }
+  ],
+  "Pathless": [
+    {
+      "name": "Pathless",
+      "url": "https://codeforces.com/problemset/problem/2130/B",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms"
+      ],
+      "difficulty": 1100
+    }
+  ],
+  "Submission is All You Need": [
+    {
+      "name": "Submission is All You Need",
+      "url": "https://codeforces.com/problemset/problem/2130/A",
+      "platform": "Codeforces",
+      "tags": [
+        "greedy",
+        "math"
+      ],
+      "difficulty": 800
+    }
+  ],
+  "Top-K Tracker (Hard Version)": [
+    {
+      "name": "Top-K Tracker (Hard Version)",
+      "url": "https://codeforces.com/problemset/problem/2129/F2",
+      "platform": "Codeforces",
+      "tags": [
+        "interactive",
+        "interactive"
+      ],
+      "difficulty": 3500
+    }
+  ],
+  "Top-K Tracker (Easy Version)": [
+    {
+      "name": "Top-K Tracker (Easy Version)",
+      "url": "https://codeforces.com/problemset/problem/2129/F1",
+      "platform": "Codeforces",
+      "tags": [
+        "interactive"
+      ],
+      "difficulty": 3500
+    }
+  ],
+  "Induced Subgraph Queries": [
+    {
+      "name": "Induced Subgraph Queries",
+      "url": "https://codeforces.com/problemset/problem/2129/E",
+      "platform": "Codeforces",
+      "tags": [
+        "data structures",
+        "graphs",
+        "sortings"
+      ],
+      "difficulty": 3000
+    }
+  ],
+  "Permutation Blackhole": [
+    {
+      "name": "Permutation Blackhole",
+      "url": "https://codeforces.com/problemset/problem/2129/D",
+      "platform": "Codeforces",
+      "tags": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "implementation",
+        "math"
+      ],
+      "difficulty": 2600
+    }
+  ],
+  "Interactive RBS (Hard Version)": [
+    {
+      "name": "Interactive RBS (Hard Version)",
+      "url": "https://codeforces.com/problemset/problem/2129/C3",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "dp",
+        "interactive"
+      ],
+      "difficulty": 2300
+    }
+  ],
+  "Interactive RBS (Medium Version)": [
+    {
+      "name": "Interactive RBS (Medium Version)",
+      "url": "https://codeforces.com/problemset/problem/2129/C2",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ],
+      "difficulty": 2000
+    }
+  ],
+  "Interactive RBS (Easy Version)": [
+    {
+      "name": "Interactive RBS (Easy Version)",
+      "url": "https://codeforces.com/problemset/problem/2129/C1",
+      "platform": "Codeforces",
+      "tags": [
+        "binary search",
+        "bitmasks",
+        "constructive algorithms",
+        "interactive"
+      ],
+      "difficulty": 1900
+    }
+  ],
+  "Stay or Mirror": [
+    {
+      "name": "Stay or Mirror",
+      "url": "https://codeforces.com/problemset/problem/2129/B",
+      "platform": "Codeforces",
+      "tags": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+      ],
+      "difficulty": 1600
+    }
+  ],
+  "Double Perspective": [
+    {
+      "name": "Double Perspective",
+      "url": "https://codeforces.com/problemset/problem/2129/A",
+      "platform": "Codeforces",
+      "tags": [
+        "constructive algorithms",
+        "dp",
+        "dsu",
+        "graphs",
+        "greedy",
+        "sortings"
+      ],
+      "difficulty": 1300
+    }
+  ]
+}

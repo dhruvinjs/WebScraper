@@ -1,0 +1,83 @@
+[
+  {
+    "name": "173. Binary Search Tree Iterator",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  },
+  {
+    "name": "251. Flatten 2D Vector",
+    "url": "https://leetcode.com/problems/flatten-2d-vector?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  },
+  {
+    "name": "281. Zigzag Iterator",
+    "url": "https://leetcode.com/problems/zigzag-iterator?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  },
+  {
+    "name": "284. Peeking Iterator",
+    "url": "https://leetcode.com/problems/peeking-iterator?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  },
+  {
+    "name": "341. Flatten Nested List Iterator",
+    "url": "https://leetcode.com/problems/flatten-nested-list-iterator?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  },
+  {
+    "name": "604. Design Compressed String Iterator",
+    "url": "https://leetcode.com/problems/design-compressed-string-iterator?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "name": "900. RLE Iterator",
+    "url": "https://leetcode.com/problems/rle-iterator?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  },
+  {
+    "name": "1286. Iterator for Combination",
+    "url": "https://leetcode.com/problems/iterator-for-combination?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  },
+  {
+    "name": "1586. Binary Search Tree Iterator II",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator-ii?envType=problem-list-v2&envId=iterator",
+    "platform": "LeetCode",
+    "tags": [
+      "iterator"
+    ],
+    "difficulty": "Med."
+  }
+]

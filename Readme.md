@@ -16,7 +16,16 @@ The goal is to help competitive programmers easily discover, track, and search p
 - Modern UI with **dark/light mode**  
 - Simple dev setup with `npm run dev`  
 
+
+
 ---
+
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/1e810e33-a618-4397-af6d-9da0521da245
+
+---
+
 
 ## 🛠️ Tech Stack
 

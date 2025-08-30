@@ -1,6 +1,6 @@
 
 import { Moon, Sun } from 'lucide-react';
-import GeometricBackground from './GeometricBackground';
+import {GeometricBackground} from './GeometricBackground';
 import {SearchForm} from './SearchForm';
 // import 
 import type { SearchFilters, SearchResult } from '../types';

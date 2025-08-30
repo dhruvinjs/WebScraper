@@ -149,7 +149,7 @@ export function ResultsDisplay({ problems, total, loading, error, theme }:Result
           }`}>
             {problems.map((problem, index) => (
               <tr 
-                key={problem.id} 
+                key={index} 
                 className={`transition-colors duration-150 ${
                   isDark
                     ? `hover:bg-gray-800 ${index % 2 === 0 ? 'bg-gray-900' : 'bg-gray-850'}`
